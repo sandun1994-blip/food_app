@@ -32,3 +32,5 @@ import android.os.Bundle;
 start project dev
 ./gradlew clean
 # npx react-native run-android
+
+# npx react-native-asset
